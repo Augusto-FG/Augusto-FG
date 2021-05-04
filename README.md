@@ -14,9 +14,9 @@ Nowadays I’m programming in the following technologies: Python, Java, SQL, Cob
   <h2 align="center">Technologies</h2>
 <p align="center">
    <img src="img/python.svg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="Images/piton.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="Images/cobol.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="Images/sql.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/java.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/cobol.jpg" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/java-script.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/html-5.png" width="50" height="50" />&nbsp; &nbsp;
    <img src="Images/css-3.png" width="50" height="50" />
