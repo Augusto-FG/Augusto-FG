@@ -10,7 +10,7 @@ Augusto-FG/Augusto-FG is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[0:36, 4/5/2021] Estefi: <h1 align="center"> Hi, I'm Estefanía</h1>
+[0:36, 4/5/2021] Estefi: <h1 align="center"> Hi, I'm Augusto</h1>
 
 <p align="center">
   <samp>
@@ -23,7 +23,7 @@ expertise in Java, data bases and web development.
   
   <h2 align="center">Technologies</h2>
 <p align="center">
-   <img src="Images/java.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="Img/python.svg" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/piton.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/cobol.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="Images/sql.png" width="50" height="50" /> &nbsp; &nbsp;
