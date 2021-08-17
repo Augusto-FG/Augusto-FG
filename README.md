@@ -7,7 +7,7 @@ Welcome to my profile!<br/>
 Welcome to my repositore, my name is Augusto Fernández. I’m from La Plata, Buenos Aires, Argentina. 
 I study at Universidad Argentina De La Empresa School to see myself in the future with a Degree in Computer Systems.
 I love technology, the way it helps us, entertains us and connects us every day. 
-Nowadays I’m programming in the following technologies: Python, Cobol, Java, Angular, Spring Boot, SQL.
+Nowadays I’m programming in the following technologies: Python, Cobol, Java, Html, Angular, Spring Boot, SQL.
   </samp><br><br>
 <br><br>
   
