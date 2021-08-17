@@ -17,8 +17,8 @@ Nowadays I’m programming in the following technologies: Python, Cobol, Java, A
    <img src="img/python.svg" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/java.png" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/angular.jpg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/sql.spring" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/sql.png" width="100" height="50" /> &nbsp; &nbsp;
+   <img src="img/sql.spring" width="100" height="50" /> &nbsp; &nbsp;
+   <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
   
 </p>
 <br/>
