@@ -13,10 +13,11 @@ Nowadays I’m programming in the following technologies: Python, Cobol, Java, A
   
   <h2 align="center">Technologies</h2>
 <p align="center">
+   <img src="img/cobol.jpg" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/python.svg" width="50" height="50" /> &nbsp; &nbsp;
    <img src="img/java.png" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/cobol.jpg" width="50" height="50" /> &nbsp; &nbsp;
-   <img src="img/sql.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/java.png" width="50" height="50" /> &nbsp; &nbsp;
+   <img src="img/angular.jpg" width="50" height="50" /> &nbsp; &nbsp;
 </p>
 <br/>
 
