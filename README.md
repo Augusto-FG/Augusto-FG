@@ -4,10 +4,7 @@
   <samp>
 Welcome to my profile!<br/>
 <br/>
-My name is Augusto Fernández. I’m from La Plata, Buenos Aires, Argentina. 
-I study at Universidad Argentina De La Empresa School to see myself in the future with a Degree in Computer Systems.
-I love technology, the way it helps us, entertains us and connects us every day. 
-Nowadays I’m programming in the following technologies: Python, Cobol, Java, Html, Angular, Spring Boot, SQL.
+I am a university student pursuing a Bachelor's degree in Systems Engineering. I consider myself proactive, creative, and efficient when it comes to problem-solving. I have practical experience in programming, web development, and database management, and I possess skills in several programming languages. Some of the technologies I am proficient in include Java, Spring Boot, Go, Angular, React, PL/SQL, Git, and Jira. I enjoy working collaboratively in teams, contributing to innovative solutions, and respecting different perspectives. My aim is to continue my professional growth, expand my knowledge, and bring value to the company I work for while fostering successful and collaborative working relationships.
   </samp><br><br>
 <br><br>
   
